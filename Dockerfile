@@ -13,4 +13,4 @@ ENV DB_POSTGRESDB_PASSWORD=PMxxgJhPrNbSYOt4pY7sko21OgMoGYer
 ENV WEBHOOK_URL=https://n8n-render-o3si.onrender.com
 ENV N8N_EDITOR_BASE_URL=https://n8n-render-o3si.onrender.com
 
-CMD ["n8n"]
+
