@@ -3,8 +3,6 @@ FROM n8nio/n8n:latest
 ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=admin
 ENV N8N_BASIC_AUTH_PASSWORD=!Serega2990!
-ENV WEBHOOK_URL=https://n8n-xxxx.onrender.com
-ENV N8N_EDITOR_BASE_URL=https://n8n-xxxx.onrender.com
 ENV DB_TYPE=postgresdb
 ENV DB_POSTGRESDB_HOST=dpg-d0m9grvdiees73dpngc0-a
 ENV DB_POSTGRESDB_PORT=5432
