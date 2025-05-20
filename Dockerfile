@@ -12,4 +12,7 @@ ENV DB_POSTGRESDB_DATABASE=n8n_c0g1
 ENV DB_POSTGRESDB_USER=n8nuser
 ENV DB_POSTGRESDB_PASSWORD=PMxxgJhPrNbSYOt4pY7sko21OgMoGYer
 
+ENV WEBHOOK_URL=https://n8n-xxxx.onrender.com
+ENV N8N_EDITOR_BASE_URL=https://n8n-xxxx.onrender.com
+
 CMD ["n8n"]
